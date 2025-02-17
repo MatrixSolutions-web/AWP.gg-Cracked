@@ -1,0 +1,18 @@
+Installation and setup
+
+AWP.GG Loader; https://gofile.io/d/L7h56B
+
+
+Install: Download
+
+Disable AV
+
+Run the loader and wait for the Gui to open
+
+Open roblox
+
+Add your script and attatch
+
+When roblox is open, wait for your game to fully load
+
+Press inject and your ready to go
